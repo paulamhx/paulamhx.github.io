@@ -1,6 +1,6 @@
 const year = document.getElementById('year'); if (year) year.textContent = new Date().getFullYear();
 
-fetch('projects.json')
+fetch('projects.json?v=' + Date.now())
   .then(r => r.json())
   .then(list => {
     const root = document.getElementById('projects');
