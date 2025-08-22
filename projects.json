@@ -1,0 +1,9 @@
+[
+  {"title":"🛣️ Urban Routes – Regression Testing Suite","summary":"Batería de regresión para plataforma de movilidad; reporte de incidencias y trazabilidad.","link":"https://github.com/paulamhx/urban-routes-regression-testing","stack":["Pruebas de regresión","Gestión de incidencias","Plan de pruebas"]},
+  {"title":"🧩 Urban Routes – Requirements Analysis & Test Design","summary":"Mapa mental, flujo y matriz de cobertura para elevar la trazabilidad de casos.","link":"https://github.com/paulamhx/urban-routes-test-design","stack":["Mapas mentales","Diagramas de flujo","Matriz RTM"]},
+  {"title":"💻 Urban Routes – Front-End Quality Assurance","summary":"Pruebas funcionales de UI; documentación de errores y mejoras.","link":"https://github.com/paulamhx/urban-routes-frontend-qa","stack":["Chrome DevTools","Heurísticas UI","Accessibility checks"]},
+  {"title":"🔌 Urban Grocers – API Quality Assurance","summary":"Validación de endpoints REST para e-commerce con Postman/JSON.","link":"https://github.com/paulamhx/urban-grocers-api-qa","stack":["Postman","REST","JSON","Collections","Environments"]},
+  {"title":"📱 Urban Lunch – Mobile App QA for Delivery Experience","summary":"Pruebas en app Android; validación de flujos de pedido y pagos.","link":"https://github.com/paulamhx/urban-lunch-mobile-qa","stack":["Android Studio","Emuladores","ADB","Postman"]},
+  {"title":"🗄️ Taxi Service – Back-End & Database Validation","summary":"Verificación de lógica back-end y datos con Bash y SQL.","link":"https://github.com/paulamhx/taxi-service-backend-validation","stack":["Bash","SQL","Logs","Data sanity checks"]},
+  {"title":"🛵 Scooter – End-to-End Automation for Mobility App","summary":"Pruebas E2E web/móvil/API integradas; pipelines de CI.","link":"https://github.com/paulamhx/scooter-e2e-automation","stack":["Selenium","PyTest","API tests","CI/CD"]}
+]
